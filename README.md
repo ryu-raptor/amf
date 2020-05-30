@@ -30,20 +30,21 @@ ArchLinux での一例
 
 ### ビルド手順
 Windows と MacOSX は make の `os` 変数をそれぞれ win, osx と指定.
-無指定で Linux と仮定する.
+無指定で Linux 向けのビルドをします.
+OpenGL Core Profile 3.3 が利用できない古い OpenGL の場合は `GLCOMP=yes` を引数に追加して下さい.
 
-下記は Windows の例
+下記は Windows (OpenGLが古い) の例
 
 本体プログラム
 ```
 % cd src
-% make os=win
+% make os=win GLCOMP=yes
 ```
 
 譜面エディタ
 ```
 % cd src
-% make os=win ChartEditor
+% make os=win GLCOMP=yes ChartEditor
 ```
 
 ## 実行
