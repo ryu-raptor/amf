@@ -4,6 +4,11 @@
 
 [Introduction](documents/alice_slides.pdf)
 
+![01](documents/slides-png/01.png)
+![02](documents/slides-png/02.png)
+![03](documents/slides-png/03.png)
+![04](documents/slides-png/04.png)
+
 ## ビルド
 (注意) GitHub への移植作業がまだ完了していないため Windows, MacOSX でのビルドはできないかもしれません.
 
