@@ -90,6 +90,7 @@ Windows と MacOSX は make の `os` 変数をそれぞれ win, osx と指定.
 
 ## ライセンス (License)
 特に指定がない限り MIT ライセンス.
+
 Resources on this repository is licensed under MIT License UNLESS OTHERWISE SPECIFIED.
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="クリエイティブ・コモンズ・ライセンス" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br /><a xmlns:cc="http://creativecommons.org/ns#" href="https://github.com/ryu-raptor/amf.git" property="cc:attributionName" rel="cc:attributionURL">ryu-raptor</a> 作『<span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Sound" property="dct:title" rel="dct:type">Hitodenashi ReEdit v2</span>』は<a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">クリエイティブ・コモンズ 表示 - 非営利 4.0 国際 ライセンス</a>で提供されています。
