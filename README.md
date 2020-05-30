@@ -2,7 +2,7 @@
 
 歌いながら空を飛ぶような音楽ゲーム
 
-![slides](documents/alice_slides.pdf)
+[Introduction](documents/alice_slides.pdf)
 
 ## ビルド
 (注意) GitHub への移植作業がまだ完了していないため Windows, MacOSX でのビルドはできないかもしれません.
